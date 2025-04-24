@@ -10,7 +10,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 <div align="center"> 
   <a href="https://youtube.com/@sdonghua_official?si=XaeQ6y9nFrHDw0bu"> 
-    <img src="" alt="SDONGHUA BOT" height="300"> 
+    <img src="https://github.com/SDONGHUAOFFICIAL/SDONGHUA-BUG-BOT-V2.0/blob/main/20250403_154416.png" alt="SDONGHUA BOT" height="300"> 
   </a> 
 </div>
 
